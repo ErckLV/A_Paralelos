@@ -1,4 +1,4 @@
-**ALGORITMOS PARALELOS (Parallel Algorithms)- CC301**
+**Parallel Algorithms- CC301**
 ============================
 
 UNI - Facultad de Ciencias
