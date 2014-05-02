@@ -28,3 +28,5 @@ Aboute the code files:
 - linear_eq_p1.c: Parallel program doing the same as linear.c
 - linear_eq_p2.c: Parallel Monte Carlo using a different estimator
 - linear_eq_p3.c: Parallel Monte Carlo reusing calculated values
+- poissonparalelo.c: Parallel Monte Carlo to solve Poisson Equation with source 2*pi*(x²+y²) in a 1*1 square, and 0.5*0.5 hole
+- metropolisparalelo.c: Metropolis and MonteCarlo method for calculating an integral.
